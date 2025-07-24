@@ -1,0 +1,8 @@
+C:\Users\alexf\Desktop\C\ManuelFasFirstproject\ManuelFasFirstproject\bin\Debug\ManuelFasFirstproject.exe.config
+C:\Users\alexf\Desktop\C\ManuelFasFirstproject\ManuelFasFirstproject\bin\Debug\ManuelFasFirstproject.exe
+C:\Users\alexf\Desktop\C\ManuelFasFirstproject\ManuelFasFirstproject\bin\Debug\ManuelFasFirstproject.pdb
+C:\Users\alexf\Desktop\C\ManuelFasFirstproject\ManuelFasFirstproject\obj\Debug\ManuelFasFirstproject.csproj.AssemblyReference.cache
+C:\Users\alexf\Desktop\C\ManuelFasFirstproject\ManuelFasFirstproject\obj\Debug\ManuelFasFirstproject.csproj.CoreCompileInputs.cache
+C:\Users\alexf\Desktop\C\ManuelFasFirstproject\ManuelFasFirstproject\obj\Debug\ManuelFasFirstproject.exe
+C:\Users\alexf\Desktop\C\ManuelFasFirstproject\ManuelFasFirstproject\obj\Debug\ManuelFasFirstproject.pdb
+C:\Users\alexf\Desktop\C\ManuelFasFirstproject\ManuelFasFirstproject\obj\Debug\ManuelFasFirstproject.exe.config
